@@ -11,8 +11,8 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
     "time": 1341,
-    "timeDay": 1347,
-    "timeWeek": 1347,
+    "timeDay": 1341,
+    "timeWeek": 1348,
     "timeMonth": 1341,
     "timeYear": 1341,
     "dailyMinutesDown": {
@@ -169,18 +169,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prx-1-3",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-09": 286
+      "2023-03-09": 292
     }
   },
   {
@@ -200,7 +200,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-09": 286
+      "2023-03-09": 292
     }
   }
 ]
