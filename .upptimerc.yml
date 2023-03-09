@@ -6,6 +6,53 @@ sites:
   - name: Ilger
     url: $ILG_COM
 
+  - name: MTA1
+    check: "tcp-ping"
+    url: $MTA1
+    port: 25
+  
+  - name: MTA2
+    check: "tcp-ping"
+    url: $MTA2
+    port: 25
+          
+  - name: MTA3
+    check: "tcp-ping"
+    url: $MTA3
+    port: 25
+  
+  - name: MTA4
+    check: "tcp-ping"
+    url: $MTA4
+    port: 25
+    
+  - name: MTA5
+    check: "tcp-ping"
+    url: $MTA5
+    port: 25
+  
+  - name: MTA6
+    check: "tcp-ping"
+    url: $MTA6
+    port: 25
+    
+  - name: MTA7
+    check: "tcp-ping"
+    url: $MTA7
+    port: 25
+  
+  - name: MTA8
+    check: "tcp-ping"
+    url: $MTA8
+    port: 25
+
+  - name: PRX1-3
+    url: $PRX1-3
+
+  - name: PRX2-4
+    url: $PRX2-4
+    
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
