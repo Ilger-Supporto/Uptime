@@ -46,11 +46,17 @@ sites:
     url: $MTA8
     port: 25
 
-  - name: PRX1-3
-    url: $PRX1-3
+  - name: PRX1
+    url: $PRX1
 
-  - name: PRX2-4
-    url: $PRX2-4
+  - name: PRX2
+    url: $PRX2
+
+  - name: PRX3
+    url: $PRX3
+
+  - name: PRX4
+    url: $PRX4
     
 
 status-website:
