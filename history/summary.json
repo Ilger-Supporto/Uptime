@@ -104,10 +104,10 @@
     "url": "$MTA5",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mta-5",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 235,
@@ -115,17 +115,19 @@
     "timeWeek": 236,
     "timeMonth": 235,
     "timeYear": 235,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-27": 1
+    }
   },
   {
     "name": "MTA6",
     "url": "$MTA6",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mta-6",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 235,
@@ -133,7 +135,9 @@
     "timeWeek": 239,
     "timeMonth": 235,
     "timeYear": 235,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-27": 1
+    }
   },
   {
     "name": "MTA7",
