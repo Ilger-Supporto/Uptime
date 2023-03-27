@@ -106,8 +106,8 @@
     "slug": "mta-5",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 235,
@@ -115,9 +115,7 @@
     "timeWeek": 236,
     "timeMonth": 235,
     "timeYear": 235,
-    "dailyMinutesDown": {
-      "2023-03-27": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MTA6",
@@ -126,8 +124,8 @@
     "slug": "mta-6",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 235,
@@ -135,9 +133,7 @@
     "timeWeek": 239,
     "timeMonth": 235,
     "timeYear": 235,
-    "dailyMinutesDown": {
-      "2023-03-27": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MTA7",
