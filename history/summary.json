@@ -25,18 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mta-1",
     "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
+    "uptime": "99.77%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
     "time": 254,
     "timeDay": 256,
     "timeWeek": 255,
     "timeMonth": 254,
     "timeYear": 254,
     "dailyMinutesDown": {
-      "2023-03-28": 3,
       "2023-03-24": 63
     }
   },
