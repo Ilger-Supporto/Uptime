@@ -57,6 +57,35 @@ sites:
 
   - name: PRX4
     url: $PRX4
+
+  - name: NEWS02_BIBLIO
+    url: $NEWS02_BIBLIO
+
+  - name: MX8
+    check: "tcp-ping"
+    url: $MX8
+    port: 25
+  
+  - name: MX9
+    check: "tcp-ping"
+    url: $MX9
+    port: 25
+          
+  - name: MX10
+    check: "tcp-ping"
+    url: $MX10
+    port: 25
+  
+  - name: MX11
+    check: "tcp-ping"
+    url: $MX11
+    port: 25
+    
+  - name: MX12
+    check: "tcp-ping"
+    url: $MX12
+    port: 25
+  
     
 
 status-website:
