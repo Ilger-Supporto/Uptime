@@ -13,7 +13,7 @@
     "time": 1804,
     "timeDay": 2691,
     "timeWeek": 2588,
-    "timeMonth": 2537,
+    "timeMonth": 2538,
     "timeYear": 1804,
     "dailyMinutesDown": {
       "2023-02-20": 27
@@ -24,19 +24,19 @@
     "url": "$MTA1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mta-1",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.91%",
     "time": 252,
-    "timeDay": 273,
+    "timeDay": 272,
     "timeWeek": 252,
     "timeMonth": 251,
     "timeYear": 252,
     "dailyMinutesDown": {
-      "2023-05-03": 1,
+      "2023-05-03": 8,
       "2023-03-24": 63
     }
   },
@@ -291,7 +291,7 @@
     "timeMonth": 252,
     "timeYear": 251,
     "dailyMinutesDown": {
-      "2023-05-03": 233,
+      "2023-05-03": 240,
       "2023-05-02": 1440,
       "2023-05-01": 1440,
       "2023-04-30": 1440,
@@ -344,7 +344,7 @@
     "timeMonth": 245,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2023-05-03": 233,
+      "2023-05-03": 240,
       "2023-05-02": 1440,
       "2023-05-01": 1440,
       "2023-04-30": 1440,
@@ -389,7 +389,7 @@
     "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.87%",
     "time": 239,
     "timeDay": 241,
