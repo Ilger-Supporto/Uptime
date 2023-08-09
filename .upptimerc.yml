@@ -86,7 +86,18 @@ sites:
     url: $MX12
     port: 25
   
-    
+  - name: PRX_Z_1
+    url: $PRX_Z_1
+
+  - name: PRX_Z_2
+    url: $PRX_Z_2
+
+  - name: PRX_Z_3
+    url: $PRX_Z_3
+
+  - name: PRX_Z_4
+    url: $PRX_Z_4
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
