@@ -98,21 +98,6 @@ sites:
   - name: PRX_Z_4
     url: $PRX_Z_4
 
-  - name: MTA2-DC
-    check: "tcp-ping"
-    url: $MTA2_DC
-    port: 25
-
-  - name: MTA3-DC
-    check: "tcp-ping"
-    url: $MTA3_DC
-    port: 25
-
-  - name: MTA4-DC
-    check: "tcp-ping"
-    url: $MTA4_DC
-    port: 25
-
   - name: KOS02
     check: "tcp-ping"
     url: $KOS02
