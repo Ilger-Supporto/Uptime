@@ -14,7 +14,7 @@
     "timeDay": 2075,
     "timeWeek": 2152,
     "timeMonth": 2137,
-    "timeYear": 1930,
+    "timeYear": 1931,
     "dailyMinutesDown": {
       "2024-02-05": 34,
       "2023-11-08": 54,
@@ -157,17 +157,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mta-7",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.20%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
     "time": 233,
-    "timeDay": 106,
-    "timeWeek": 119,
+    "timeDay": 116,
+    "timeWeek": 120,
     "timeMonth": 128,
     "timeYear": 233,
     "dailyMinutesDown": {
+      "2024-03-18": 26,
       "2023-03-27": 62
     }
   },
@@ -228,7 +229,7 @@
     "timeDay": 651,
     "timeWeek": 743,
     "timeMonth": 824,
-    "timeYear": 826,
+    "timeYear": 825,
     "dailyMinutesDown": {
       "2023-10-27": 19,
       "2023-03-24": 35
