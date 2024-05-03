@@ -14,7 +14,7 @@
     "timeDay": 1876,
     "timeWeek": 2442,
     "timeMonth": 2293,
-    "timeYear": 1832,
+    "timeYear": 1831,
     "dailyMinutesDown": {
       "2024-03-27": 177,
       "2024-02-05": 34,
@@ -40,7 +40,7 @@
     "timeDay": 106,
     "timeWeek": 153,
     "timeMonth": 138,
-    "timeYear": 251,
+    "timeYear": 250,
     "dailyMinutesDown": {
       "2024-03-27": 176,
       "2024-01-18": 26
@@ -146,7 +146,7 @@
     "timeDay": 105,
     "timeWeek": 152,
     "timeMonth": 138,
-    "timeYear": 236,
+    "timeYear": 235,
     "dailyMinutesDown": {
       "2024-03-27": 169,
       "2023-08-02": 52
@@ -199,11 +199,11 @@
     "url": "$PRX1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prx-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.95%",
     "time": 827,
     "timeDay": 661,
@@ -211,6 +211,7 @@
     "timeMonth": 892,
     "timeYear": 827,
     "dailyMinutesDown": {
+      "2024-05-03": 4,
       "2024-03-27": 166,
       "2024-01-24": 17,
       "2023-05-05": 59
@@ -231,7 +232,7 @@
     "timeDay": 680,
     "timeWeek": 956,
     "timeMonth": 865,
-    "timeYear": 824,
+    "timeYear": 823,
     "dailyMinutesDown": {
       "2024-03-27": 166,
       "2023-10-27": 19
@@ -242,11 +243,11 @@
     "url": "$PRX3",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prx-3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.95%",
     "time": 830,
     "timeDay": 649,
@@ -254,6 +255,7 @@
     "timeMonth": 865,
     "timeYear": 830,
     "dailyMinutesDown": {
+      "2024-05-03": 4,
       "2024-03-27": 165,
       "2024-01-24": 17,
       "2023-05-05": 59
@@ -274,7 +276,7 @@
     "timeDay": 681,
     "timeWeek": 947,
     "timeMonth": 875,
-    "timeYear": 829,
+    "timeYear": 828,
     "dailyMinutesDown": {
       "2024-03-27": 165,
       "2023-10-27": 19
@@ -312,11 +314,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mx-8",
     "status": "up",
-    "uptime": "78.08%",
+    "uptime": "78.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "84.86%",
+    "uptimeYear": "84.89%",
     "time": 251,
     "timeDay": 108,
     "timeWeek": 152,
@@ -386,11 +388,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mx-9",
     "status": "up",
-    "uptime": "66.75%",
+    "uptime": "66.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "72.44%",
+    "uptimeYear": "72.47%",
     "time": 243,
     "timeDay": 106,
     "timeWeek": 152,
