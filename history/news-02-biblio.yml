@@ -1,7 +1,7 @@
 url: $NEWS02_BIBLIO
-status: up
-code: 200
-responseTime: 809
-lastUpdated: 2025-05-22T23:16:37.910Z
+status: down
+code: 500
+responseTime: 810
+lastUpdated: 2025-05-23T04:55:44.131Z
 startTime: 2023-03-30T06:03:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
