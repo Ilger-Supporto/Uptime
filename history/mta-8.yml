@@ -1,7 +1,7 @@
 url: $MTA8
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-06-29T17:03:00.083Z
+status: up
+code: 200
+responseTime: 173
+lastUpdated: 2026-06-29T18:39:45.818Z
 startTime: 2023-03-09T07:02:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
