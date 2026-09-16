@@ -447,7 +447,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mx-8",
     "status": "up",
-    "uptime": "92.94%",
+    "uptime": "92.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -597,13 +597,13 @@
     "url": "$PRX_Z_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prx-z-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 1286,
+    "time": 1285,
     "timeDay": 1515,
     "timeWeek": 1288,
     "timeMonth": 1322,
@@ -618,7 +618,8 @@
       "2026-06-29": 26,
       "2026-08-04": 49,
       "2026-08-05": 80,
-      "2026-08-07": 26
+      "2026-08-07": 26,
+      "2026-09-16": 2
     }
   },
   {
@@ -626,10 +627,10 @@
     "url": "$PRX_Z_2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prx-z-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 1268,
@@ -647,7 +648,8 @@
       "2026-06-29": 19,
       "2026-08-04": 43,
       "2026-08-05": 73,
-      "2026-08-07": 19
+      "2026-08-07": 19,
+      "2026-09-16": 2
     }
   },
   {
@@ -655,10 +657,10 @@
     "url": "$PRX_Z_3",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prx-z-3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 1408,
@@ -674,7 +676,8 @@
       "2025-11-13": 30,
       "2026-06-16": 153,
       "2026-08-04": 36,
-      "2026-08-05": 66
+      "2026-08-05": 66,
+      "2026-09-16": 1
     }
   },
   {
@@ -682,13 +685,13 @@
     "url": "$PRX_Z_4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prx-z-4",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 1428,
+    "time": 1429,
     "timeDay": 1635,
     "timeWeek": 1487,
     "timeMonth": 1502,
@@ -701,7 +704,8 @@
       "2025-11-13": 30,
       "2026-06-16": 147,
       "2026-08-04": 29,
-      "2026-08-05": 60
+      "2026-08-05": 60,
+      "2026-09-16": 1
     }
   }
 ]
