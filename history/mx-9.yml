@@ -1,7 +1,7 @@
 url: $MX9
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-11-17T05:38:45.103Z
+status: up
+code: 200
+responseTime: 131
+lastUpdated: 2026-11-17T20:03:20.401Z
 startTime: 2023-03-30T06:03:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
