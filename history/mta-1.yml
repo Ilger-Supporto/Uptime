@@ -1,7 +1,7 @@
 url: $MTA1
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-11-17T05:01:13.330Z
+status: up
+code: 200
+responseTime: 129
+lastUpdated: 2026-11-17T20:02:34.298Z
 startTime: 2023-03-09T07:01:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
